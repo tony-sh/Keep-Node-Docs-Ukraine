@@ -6,11 +6,11 @@ Everybody is welcome to review, enhance and add curated data to this repository!
 
 
 **Content of this Section**
-- [Introduction](https://github.com/Estebank97/Keep-Node-Operation/wiki#introduction)
-- [Purpose of the tBTC System](https://github.com/Estebank97/Keep-Node-Operation/wiki#purpose-of-the-tbtc-system)
-- [Keep Network](https://github.com/Estebank97/Keep-Node-Operation/wiki#keep-network)
-- [t-ECDSA Node](https://github.com/Estebank97/Keep-Node-Operation/wiki#t-ecdsa-node)
-- [Random Beacon Node](https://github.com/Estebank97/Keep-Node-Operation/wiki#random-beacon-node)
+- Introduction
+- Purpose of the tBTC System
+- Keep Network
+- t-ECDSA Node
+- Random Beacon Node
 
 <p align="center">
   <img width="619" alt="Intro" src="https://user-images.githubusercontent.com/68087535/88677628-e9ec5080-d0c3-11ea-9440-f2164352e54a.png">
