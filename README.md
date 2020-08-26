@@ -1,4 +1,4 @@
-## Welcome to the Keep Random Beacon and ECDSA Nodes Operation documentation! 
+# Welcome to the Keep Random Beacon and ECDSA Nodes Operation documentation! 
 This Keep Community Project is to consolidate all info around for new and existing Keep Node owners. 
 It has everything you need to know about deploying and managing Keep Network nodes.
 Everybody is welcome to review, enhance and add curated data to this repository!
