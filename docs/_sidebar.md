@@ -1,14 +1,11 @@
-- Basics
-  - [Overview](basics/overview.md)
-    - [Sub Topic](basics/requirements/sub-topic.md)
-  - [Installation](basics/installation.md)
-- Intermediate
-  - [Topic 1](intermediate/topics-1.md)
-  - [Topic 2](intermediate/topics-2.md)
-  - [Topic 3](intermediate/topics-3.md)
-  - [Topic 4](intermediate/topics-4.md)
-- Advanced
-  - [Topic 1](advanced/adv-topic-1.md)
-  - [Topic 2](advanced/adv-topic-2.md)
+- **Node Operation**
+  - [Overview](basics/intro.md)
+  - [Deploy your Nodes](Node-Operation/deploy.md)
+  - [Manage your Nodes](Node-Operation/manage.md)
+  - [Troubleshooting](Node-Operation/troubleshooting.md)
+  - [Monitoring and Remote Alerting](Node-Operation/monitoring.md)
+  - [Risk Mitigation](Node-Operation/risks.md)
+  - [Useful Links](Node-Operation/links.md)
+
 - **Project Documentation**
   - [ReadMe](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/blob/master/README.md)
