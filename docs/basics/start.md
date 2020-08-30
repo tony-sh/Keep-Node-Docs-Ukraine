@@ -16,7 +16,7 @@ Staked tokens are delegated by a KEEP token holder to an operator address, who p
 - Key Reasons for Staking in Keep Network: Understand why it is meaningful to stake in Keep Network.
 - Comparison with Other Alternatives: Compare Keep Staking with other staking alternatives currently available in crypto.
 - Staking Documentation: Official Keep Team's documentation about staking. 
-- Staking Alternatives: With staking partners or on your own vps.
+- Staking Options: With staking partners or on your own vps.
 - Node Operation: Deploy, Manage, Troubleshoot your own node.
 - Keep Token Dashboard: Token Dashboard official user guide.
 
