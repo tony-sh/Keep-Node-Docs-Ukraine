@@ -36,3 +36,5 @@ It let’s you:
 - Set up the different roles (authorizer, operator, beneficiary) for staking
 - Delegate stake to an operator (staking provider) 
 - Track and accept rewards 
+
+`Sourced from Keep Team's official documentation and edited by community.`[Source](https://keep-network.gitbook.io/staking-documentation/)
