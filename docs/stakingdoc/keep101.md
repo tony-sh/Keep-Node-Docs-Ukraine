@@ -45,3 +45,5 @@ The benefit KEEP tokens confer to holders is relative to the amount of stake del
 Slashing in the Keep and tBTC systems is not designed to be punitive, and is rather to protect the security of the network from malicious behaviors. 
 
 Continue to the next section to learn more about the specifics of rewards and slashing.
+
+`Sourced from Keep Team's official documentation.`[Source](https://keep-network.gitbook.io/staking-documentation/)
