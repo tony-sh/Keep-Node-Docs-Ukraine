@@ -7,7 +7,7 @@ This section summarizes the available guides and approaches that were generated 
 - [Official Keep Network's System Considerations for Random Beacon Node](https://github.com/Estebank97/Keep-Node-Operation/wiki/Deploy-your-Nodes#official-keep-networks-system-considerations-for-random-beacon-node)
 - [Absolute Beginner Guides](https://github.com/Estebank97/Keep-Node-Operation/wiki/Deploy-your-Nodes#absolute-beginner-guides)
 - [Other Guides](https://github.com/Estebank97/Keep-Node-Operation/wiki/Deploy-your-Nodes#other-guides)
-- [ECDSA Node on Amazon](https://github.com/Estebank97/Keep-Node-Operation/wiki/Deploy-your-Nodes#ecdsa-node-on-amazon)
+- [ECDSA Node on Amazon](Node-Operation/deploy?id=ecdsa-node-on-amazon)
 - [Script based Guides](https://github.com/Estebank97/Keep-Node-Operation/wiki/Deploy-your-Nodes#script-based-guides)
 - [Kubernetes Installation Guide for ECDSA Node](https://github.com/Estebank97/Keep-Node-Operation/wiki/Deploy-your-Nodes#kubernetes-installation-guide-for-ecdsa-node)
 - [Video Walkthrough](https://github.com/Estebank97/Keep-Node-Operation/wiki/Deploy-your-Nodes#video-walkthrough)
