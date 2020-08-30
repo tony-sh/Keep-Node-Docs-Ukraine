@@ -3,8 +3,8 @@
 	- [Introduction to Keep Network & tBTC](basics/intro.md)
 
 - **Key Reasons for Staking in Keep Network**
-	- [Project Characteristics](reasons/reasons.md)
-	- [Strong Return on Investment](reasons/roi.md)
+	- [Project Characteristics](Reasons/reasons.md)
+	- [Strong Return on Investment](Reasons/roi.md)
 
 - **Comparison with Other Alternatives**
 	- Comparison with similar Services
