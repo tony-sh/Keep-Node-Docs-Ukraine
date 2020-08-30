@@ -51,14 +51,14 @@ Fees generated for Minting/Burning while operating the Nodes will lead to an att
 
 Below are the results for a Random Beacon Node Operator in several scenarios. The results are attractive if there is high demand for the service.
 
-It is still to be defined what the actual Fee for the Service will be. In the [Random Beacon Staking Rewards][(https://keep-network.gitbook.io/staking-documentation/keep-network-staking/keep-and-tbtc-staking-rewards#random-beacon-rewards) document it indicates that Fees could be between $10 and $50 per transaction, so we use both scenarios.
+It is still to be defined what the actual Fee for the Service will be. In the [Random Beacon Staking Rewards](https://keep-network.gitbook.io/staking-documentation/keep-network-staking/keep-and-tbtc-staking-rewards#random-beacon-rewards) document it indicates that Fees could be between $10 and $50 per transaction, so we use both scenarios.
 <p align="center">
   <img width="800" src="https://user-images.githubusercontent.com/68167410/91620497-c4b66080-e955-11ea-9025-21ca3a32bdf7.png">
 </p>
 
 ### ECDSA Node ROI in Full Production
 
-Here are the results for an ECDSA Node Operator in several scenarios. It is still to be defined what the actual Fee for the Service will be. In the [ECDSA Node Staking Rewards][(https://keep-network.gitbook.io/staking-documentation/keep-network-staking/keep-and-tbtc-staking-rewards#t-ecdsa-tbtc-rewards) document it indicates that Fees start at 5bps (Basis Points), that means 0.05% of the Value Transferred.
+Here are the results for an ECDSA Node Operator in several scenarios. It is still to be defined what the actual Fee for the Service will be. In the [ECDSA Node Staking Rewards](https://keep-network.gitbook.io/staking-documentation/keep-network-staking/keep-and-tbtc-staking-rewards#t-ecdsa-tbtc-rewards) document it indicates that Fees start at 5bps (Basis Points), that means 0.05% of the Value Transferred.
 
 The results are less attractive due to the following facts:
 
