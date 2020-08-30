@@ -1,5 +1,5 @@
 - **Getting Started**
-	- [Basic Description - TLDR](basics/start.md)
+	- [Basic Description - TLDR](https://estebank97.github.io/Keep-Node-Docs/#/)
 	- [Introduction to Keep Network & tBTC](basics/intro.md)
 
 - **Key Reasons for Staking in Keep Network**
