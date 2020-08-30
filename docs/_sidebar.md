@@ -1,5 +1,5 @@
 - **Getting Started**
-	- [Basic Description - TLDR](https://estebank97.github.io/Keep-Node-Docs/#/)
+	- [Basic Description - TLDR](basics/stard.md)
 	- [Introduction to Keep Network & tBTC](basics/intro.md)
 
 - **Key Reasons for Staking in Keep Network**
@@ -17,8 +17,8 @@
 	- [Staking Economics](stakingdoc/economics.md)
 
 - **Staking Alternatives**
-	- Staking with a provider
-	- Staking in House - Running your own Nodes
+	- [Staking with a provider](stakingdoc/stakingoptions.md)
+	- [Staking in House - Running your own Nodes](stakingdoc/stakingoptions.md)
 
 - **Node Operation**
   - [Intro](Node-Operation/intro-operation.md)
