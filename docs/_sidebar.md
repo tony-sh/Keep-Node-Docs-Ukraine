@@ -8,7 +8,7 @@
 
 - **Comparison with Other Alternatives**
 	- [Comparison with similar Services](comparison/comparesimilar.md)
-	- [Comparison with other Staking Options](comparison/comparesimilar?id=comparison-with-other-staking-investment-options)
+	- [Comparison with other Staking Options](comparison/comparesimilar.md)
 
 - **Staking Documentation**
 	- [Keep Network 101](stakingdoc/keep101.md)
