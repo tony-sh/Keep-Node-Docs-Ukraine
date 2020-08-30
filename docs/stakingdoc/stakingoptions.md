@@ -15,7 +15,7 @@ Please reach out to your staking provider rep and they’ll start to get you onb
 ### Staking In-House
 If you’re staking in-house, you should running one or both nodes.
 
-The Node Operation Section includes all support documentation in order to :
+The **Node Operation Section** includes all support documentation in order to :
 
 - [Deploy your Nodes](Node-Operation/deploy.md)
 - [Manage your Nodes](Node-Operation/manage.md)
@@ -28,7 +28,7 @@ For further support, use Discord and see Keep Network's GitHub documentation.
 ### Using Keep Token dApp
 The Keep Token Dashboard handles everything you’ll need to manage your token grants, staking delegation, and rewards. 
 It let’s you: 
-Claim your token grants (in Testnet)
-Set up the different roles (authorizer, operator, beneficiary) for staking
-Delegate stake to an operator (staking provider) 
-Track and accept rewards 
+- Claim your token grants (in Testnet)
+- Set up the different roles (authorizer, operator, beneficiary) for staking
+- Delegate stake to an operator (staking provider) 
+- Track and accept rewards 
