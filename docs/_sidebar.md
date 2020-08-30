@@ -1,5 +1,5 @@
 - **Getting Started**
-	- [Basic Description - TLDR](basics/stard.md)
+	- [Basic Description - TLDR](basics/start.md)
 	- [Introduction to Keep Network & tBTC](basics/intro.md)
 
 - **Key Reasons for Staking in Keep Network**
