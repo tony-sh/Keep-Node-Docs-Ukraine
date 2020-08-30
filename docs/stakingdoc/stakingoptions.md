@@ -11,7 +11,11 @@ Many of you are already set up with a staking provider through other networks yo
 - Staked, Tim Ogilvie (togilvie@staked.us)
 - Bison Trails, Viktor Bunin (viktor@bisontrails.co)
 - Blockdaemon, Konstantin Richter (konstantin@blockdaemon.com) 
+
+
 Please reach out to your staking provider rep and they’ll start to get you onboarded, and let us know if you need recommendations or introductions.
+
+
 ### Staking In-House
 If you’re staking in-house, you should running one or both nodes.
 
