@@ -28,6 +28,3 @@
   - [Monitoring and Remote Alerting](Node-Operation/monitoring.md)
   - [Risk Mitigation](Node-Operation/risks.md)
   - [Useful Links](Node-Operation/links.md)
-
-- **Project Documentation**
-  - [ReadMe](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit/blob/master/README.md)
