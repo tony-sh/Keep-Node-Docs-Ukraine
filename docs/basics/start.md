@@ -1,7 +1,7 @@
 ![Intro](https://github.com/Estebank97/Keep-Node-Docs/blob/master/docs/assets/images/Keep%20Node%20Intro%20graf.jpg)
 # Getting Started
 In this guide, you'll find all the information you need to stake on the Keep Network and start earning rewards.
-
+![Intro](https://github.com/Estebank97/Keep-Node-Docs/blob/master/docs/assets/images/Keep%20Node%20Intro%20graf.jpg)
 ## Basic Description - TLDR
 The Keep Network's native token, a KEEP, powers the network and undergirds all the apps that are and will be built on it. Anyone with KEEP tokens can stake them, setting them aside as collateral for Keep Network operations.
 
