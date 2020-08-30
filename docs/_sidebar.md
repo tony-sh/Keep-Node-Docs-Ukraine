@@ -1,3 +1,25 @@
+- **Getting Started**
+	- Basic Description - TLDR
+	- Introduction to Keep Network & tBTC
+
+- **Key Reasons for Staking in Keep Network**
+	- Project Characteristics
+	- Strong Return on Investment
+
+- **Comparison with Other Alternatives**
+	- Comparison with similar Services
+	- Comparison with other Staking Options
+
+- **Staking Documentation**
+	- Keep Network 101
+	- Staking Rewards
+	- Slashing & Liquidation
+	- Staking Economics
+
+- **Staking Alternatives**
+	- Staking with a provider
+	- Staking in House - Running your own Nodes
+
 - **Node Operation**
   - [Intro](Node-Operation/intro-operation.md)
   - [Deploy your Nodes](Node-Operation/deploy.md)
