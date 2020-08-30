@@ -1,17 +1,15 @@
-## Strong Return on Investment (ROI)
+# Strong Return on Investment (ROI)
 There are two main phases for generating strong returns while operating Keep Network Nodes:
 * **Network Bootstrapping with Subsidies** 
 * **Network in full Production**
 
 
-### Network Bootstrapping with Subsidies
+## Network Bootstrapping with Subsidies
 There is a strong [staking reward subsidy](https://keep-network.gitbook.io/staking-documentation/keep-network-staking/staking-reward-subsidy#keep-holders-stakedrop-subsidy) for early participants that help bootstrap the Network:
 
 |**Total KEEP [Supply](https://etherscan.io/token/0x85eee30c52b0b379b046fb0f85f4f3dc3009afec)**|**1,000,000,000 KEEP**|
 | --- | --- |
-|  |  |
 | **StakeDrop Subsidies for Random Beacon**|**20,000,000 KEEP (2%)**|
-|  |  |
 | **StakeDrop Subsidies for ECDSA**|**180,000,000 KEEP (18%)**|
 
 
@@ -46,10 +44,10 @@ The 100 tBTC Cap will be lifted once the network is up and running for a prudent
   <img width="800" src="https://user-images.githubusercontent.com/68167410/91620194-d64b3880-e954-11ea-9c7a-c27717f0d711.png">
 </p>
 
-### Network in full Production
+## Network in full Production
 Fees generated for Minting/Burning while operating the Nodes will lead to an attractive return once the overall volume of transfers achieves full Production levels (up to Market Demand)
 
-#### Random Beacon Node ROI in Full Production
+### Random Beacon Node ROI in Full Production
 
 Below are the results for a Random Beacon Node Operator in several scenarios. The results are attractive if there is high demand for the service.
 
@@ -58,7 +56,7 @@ It is still to be defined what the actual Fee for the Service will be. In the [R
   <img width="800" src="https://user-images.githubusercontent.com/68167410/91620497-c4b66080-e955-11ea-9025-21ca3a32bdf7.png">
 </p>
 
-#### ECDSA Node ROI in Full Production
+### ECDSA Node ROI in Full Production
 
 Here are the results for an ECDSA Node Operator in several scenarios. It is still to be defined what the actual Fee for the Service will be. In the [ECDSA Node Staking Rewards][(https://keep-network.gitbook.io/staking-documentation/keep-network-staking/keep-and-tbtc-staking-rewards#t-ecdsa-tbtc-rewards) document it indicates that Fees start at 5bps (Basis Points), that means 0.05% of the Value Transferred.
 
