@@ -1,5 +1,5 @@
 - **Node Operation**
-  - [Overview](basics/intro.md)
+  - [Intro](Node-Operation/intro-operation.md)
   - [Deploy your Nodes](Node-Operation/deploy.md)
   - [Manage your Nodes](Node-Operation/manage.md)
   - [Troubleshooting](Node-Operation/troubleshooting.md)
