@@ -1,6 +1,6 @@
 - **Getting Started**
-	- Basic Description - TLDR
-	- Introduction to Keep Network & tBTC
+	- [Basic Description - TLDR](basics/stard.md)
+	- [Introduction to Keep Network & tBTC](basics/intro.md)
 
 - **Key Reasons for Staking in Keep Network**
 	- Project Characteristics
