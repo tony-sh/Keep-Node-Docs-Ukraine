@@ -1,22 +1,7 @@
-# Keep Nodes Operation 
-### A complete repository with everything you need to run your Keep Random Beacon and ECDSA Nodes
-This Keep Community Project is to consolidate all info around for new and existing Keep Node owners. 
-It has everything you need to know about deploying and managing Keep Network nodes.
-Everybody is welcome to review, enhance and add curated data to this repository!
+# Introduction to tBTC & Keep Network 
 
 
-**Content of this Section**
-- Introduction
-- Purpose of the tBTC System
-- Keep Network
-- t-ECDSA Node
-- Random Beacon Node
-
-<p align="center">
-  <img width="619" alt="Intro" src="https://user-images.githubusercontent.com/68087535/88677628-e9ec5080-d0c3-11ea-9440-f2164352e54a.png">
-</p>
-
-## Introduction
+## DeFi
 Decentralized Finance (DeFi) is a system of open, permissionless and interwoven financial services and products built and delivered mainly on Etherum. As of July 2020, almost $4Billion is currently deployed across all Defi applications offering loans, stable coins, derivatives, exchanges all through decentralized smart contracts. This volume is expected to grow significantly.
 
 DeFi protocols are modular so they can stack on top of each other to build an increasingly complexer system of interoperating parts. Since DeFi products are code distributed across a decentralized blockchain like Ethereum, they can never be shut down or prohibited to those who want to use them. Thus anyone with an internet connection is able to use lending services, complex financial products, stable stores of value, and investment and trading opportunities on DeFi.
@@ -67,7 +52,7 @@ This mechanism is trustless because signers are independent; they’re people an
 
 Random Beacon is the other part of the network: a decentralized random selection tool for selecting signers from a pool in a cryptographically secure and decentralized way. This beacon takes the form of a BLS Threshold Relay and cannot be gamed or manipulated. It is a trusted source of randomness for the process of trustless group election. No one knows who the signers will be – including the signers themselves – until the moment they are selected by the Random Beacon. This ensures that signers are not able to collude to steal funds or attack the network, and it’s why the true randomness supplied by the beacon is so important.
 
-**The Random Beacon and t-ECDSA Keeps are the core technology of the network. Random Beacon operator and t-ECDSA client/operator, the signer, are the nodes which we operate.**
+**The Random Beacon and t-ECDSA Keeps are the core technology of the network. Random Beacon operator and t-ECDSA client/operator, the signer, are the nodes which we operate and where we stake.**
 
 
 
