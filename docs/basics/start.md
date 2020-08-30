@@ -1,4 +1,5 @@
 ![Intro](../assets/images/Keep%20Node%20Intro%20graf.jpg)
+![pulpo](../assets/images/keepdocgraf.jpg)
 
 
 # Getting Started
