@@ -7,8 +7,8 @@
 	- [Strong Return on Investment](Reasons/roi.md)
 
 - **Comparison with Other Alternatives**
-	- [Comparison with similar Services](comparison/comparesimilir.md)
-	- [Comparison with other Staking Options](comparison/comparesimilir.md)
+	- [Comparison with similar Services](comparison/comparesimilar.md)
+	- [Comparison with other Staking Options](comparison/comparesimilar.md)
 
 - **Staking Documentation**
 	- Keep Network 101
