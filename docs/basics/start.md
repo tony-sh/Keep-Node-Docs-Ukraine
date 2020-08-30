@@ -1,4 +1,4 @@
-![Intro](https://github.com/Estebank97/Keep-Node-Docs/blob/master/docs/assets/images/Keep%20Node%20Intro%20graf.jpg)
+![Intro](/assets/images/Keep%20Node%20Intro%20graf.jpg)
 # Getting Started
 In this guide, you'll find all the information you need to stake on the Keep Network and start earning rewards.
 ![Intro](https://github.com/Estebank97/Keep-Node-Docs/blob/master/docs/assets/images/Keep%20Node%20Intro%20graf.jpg)
