@@ -11,10 +11,10 @@
 	- [Comparison with other Staking Options](comparison/comparesimilar.md)
 
 - **Staking Documentation**
-	- Keep Network 101
-	- Staking Rewards
-	- Slashing & Liquidation
-	- Staking Economics
+	- [Keep Network 101](stakingdoc/keep101.md)
+	- [Staking Rewards](stakingdoc/rewards.md)
+	- [Slashing & Liquidation](stakingdoc/slashing.md)
+	- [Staking Economics](stakingdoc/economics.md)
 
 - **Staking Alternatives**
 	- Staking with a provider
