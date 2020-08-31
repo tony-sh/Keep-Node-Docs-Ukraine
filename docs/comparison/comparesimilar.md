@@ -37,4 +37,6 @@ Note that all Network Staking Options show % Rewards in Nominal terms, i.e. if y
 |[Zilliqa](https://www.zilliqa.com/staking)|  Currently can only stake through Exchanges| Variable| [ZIL](https://www.coingecko.com/en/coins/zilliqa)| ~10% Nominators, check [Current Rewards](https://www.stakingrewards.com/earn/zilliqa)  |
 |ETH2|  Currently in Testnet | 32 ETH| ETH| [Future Rewards Estimates](https://www.stakingrewards.com/earn/ethereum-2-0)| 
 
+`Written & assembled by Keep Community.`
 
+`Contributors: Ramaruro, EstebanK`
