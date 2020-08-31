@@ -136,3 +136,7 @@ The key activities to update both nodes are the following:
   - If it shows some errors first make sure that contracts are authorized in the dashboard. Sometimes you just have to do it again.
 
 * Finally, don't forget to add some test ETH to the tBTC bonding on the Dashboard !
+
+---
+`Written & assembled by Keep Community.`
+`Contributors: Ramaruro, EstebanK`
