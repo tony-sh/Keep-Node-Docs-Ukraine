@@ -23,3 +23,5 @@ Staked tokens are delegated by a KEEP token holder to an operator address, who p
 
 
 `Sourced from Keep Team's official documentation and edited & completed by community.`[Source](https://keep-network.gitbook.io/staking-documentation/)
+
+`Contributors: Ramaruro, EstebanK`
