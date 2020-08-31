@@ -49,3 +49,7 @@ To ensure High Availability of a Keep Production System by introducing Node Redu
 Refer to the [Kubernetes Deployment Section](https://github.com/Estebank97/Keep-Node-Operation/wiki/Deploy-your-Node#kubernetes-installation-guide-for-ecdsa-nodeode) for installation instructions. 
 
 This detailed document from the Keep Team provides a lot of information about the ECDSA Node  [Run ECDSA Keep](https://github.com/keep-network/keep-ecdsa/blob/master/docs/run-keep-ecdsa.adoc#5-deployment-consideration)
+
+---
+`Written & assembled by Keep Community.`
+`Contributors: Ramaruro, EstebanK`
