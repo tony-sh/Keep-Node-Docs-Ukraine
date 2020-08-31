@@ -21,3 +21,5 @@ Keep Network aims to maintain the Censorship Resistant, Descentralized ethos of 
 There are alternatives to bridge Bitcoin to Ethereum but there are multiple risks associated with those approaches; in particular, with Ren Protocol, it was recently discovered and discussed in [Twitter](https://twitter.com/ChrisBlec/status/1299029947852390406?s=20) that the Management Team controls the Wallet that holds all the Bitcoin, posing a huge risk to the Bitcoin Owners and by extension to the Decentralized Finance ecosystem that uses renBTC as collateral; as a result they issued a document on their [Path to Decentralization](https://medium.com/renproject/renvm-and-the-road-to-decentralisation-72213c3bee3a). _It is worth noting that Keep Network starts decentralized from the beginning._
 
 `Written & assembled by Keep Community.`
+
+`Contributors: Ramaruro, EstebanK`
