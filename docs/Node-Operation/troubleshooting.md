@@ -86,3 +86,7 @@ Some sort of problem with Keep Contracts on-chain, nothing you can do about it.
   <img width="719" alt="Other 2" src="https://user-images.githubusercontent.com/68087535/89208572-f9bbd700-d592-11ea-86ed-409db54acde8.png">
 </p>
 Problem is on-chain, something to do with trying to join the bonded sortition pool.
+
+---
+`Written & assembled by Keep Community.`
+`Contributors: Ramaruro, EstebanK`
