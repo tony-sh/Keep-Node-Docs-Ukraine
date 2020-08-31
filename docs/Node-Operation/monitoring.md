@@ -65,3 +65,7 @@ At "youraddress", put the ethereum adress of your signing group.
 
 tBTC Stats (pantsme)
 Available commands: !supply, !txs, !holders, !tdt, !volume, !help
+
+---
+`Written & assembled by Keep Community.`
+`Contributors: Ramaruro, EstebanK`
