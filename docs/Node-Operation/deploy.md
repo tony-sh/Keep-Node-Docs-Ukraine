@@ -100,3 +100,7 @@ Alex Crowe has written this excellent guide to deploy an ECDSA Node to Kubernete
 ## Keep Nodes on local Windows Machine
 
 - [Running an ECDSA Keep locally hosted, testnet node on Windows for noobs](https://docs.google.com/document/d/1hsI8AtUiGAfcHxik-3akSRjysC0Zw0CVmHxmbNtZyHI/edit#). It might have some data (contracts and peers) outdated. But useful if you want to do some tests on a local pc.
+
+`Written & assembled by Keep Community.`
+
+`Contributors: Ramaruro, EstebanK`
