@@ -21,7 +21,7 @@ Staked tokens are delegated by a KEEP token holder to an operator address, who p
 - [Node Operation:](Node-Operation/intro-operation.md) Deploy, Manage, Troubleshoot your own node.
 - Keep Token Dashboard: Token Dashboard official user guide.
 
-
+---
 `Sourced from Keep Team's official documentation and edited & completed by community.`[Source](https://keep-network.gitbook.io/staking-documentation/)
 
 `Contributors: Ramaruro, EstebanK`
