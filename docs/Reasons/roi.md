@@ -70,3 +70,6 @@ The results are less attractive due to the following facts:
 </p>
 
 > **Note for Keep Team:** We suggest to add a fee (interest) that accrues linearly with time for the investment, in addition to the fees for minting and burning, to improve return for stakers.
+
+`Written & assembled by Keep Community.`
+`Contributors: Ramaruro, EstebanK`
