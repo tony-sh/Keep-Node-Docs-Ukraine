@@ -3,7 +3,6 @@
 ## Further Keep Network Documentation
 
 - [Bridging Bitcoin and Ethereum - Announcing tBTC, the first DApp built on the Keep Network](https://blog.keep.network/bridging-bitcoin-and-ethereum-b2f9923630a7) by Matt Luongo.
-- [Keep Network 101](https://keep-network.gitbook.io/staking-documentation/keep-network-staking/keep-network-101) and [Staking 101](https://keep-network.gitbook.io/staking-documentation/staking-basics/staking-101), Overview of the Keep Network and the Staking Process.
 - [Random Beacon Operation](https://docs.keep.network/run-random-beacon.html), How to Operate the Random Beacon.
 - [tBTC - A Decentralized Redeemable BTC-backed ERC-20 Token](https://docs.keep.network/tbtc/index.pdf), Detailed description of the tBTC system.
 - [Keen Network Blog](https://blog.keep.network/), Articles from the Development Team related to the Keep Network, tBTC System, KEEP Token, etc.
