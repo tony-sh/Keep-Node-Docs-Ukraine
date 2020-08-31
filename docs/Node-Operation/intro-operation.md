@@ -9,8 +9,9 @@
 - It has everything you need to know about deploying and managing Keep Network nodes.
 - Everybody is welcome to review, enhance and add curated data to this repository!
 
-`Written & assembled by Keep Community.`
+---
 
+`Written & assembled by Keep Community.`
 `Contributors: Ramaruro, EstebanK`
 
 
