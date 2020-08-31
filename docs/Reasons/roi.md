@@ -18,7 +18,9 @@ The Subsidies will be distributed following the schedule shown below.
   <img width="600" src="https://user-images.githubusercontent.com/68167410/91521843-45c21900-e8be-11ea-83cc-0d26b0a42fc4.png">
 </p>
 
-The estimated Subsidy Rewards ROI are as follows:
+> The mechanics of rewards distribution are further explained in this [article](https://medium.com/@ben_longstaff/crypto-yield-farmers-take-note-understanding-the-tbtc-and-keep-network-rewards-mechanics-6042e9dc5d97) by Ben Longstaff, and the distribution contract code can be found [here](https://github.com/keep-network/keep-core/pull/1863).
+
+### The estimated Subsidy Rewards ROI are as follows:
 
 **Random Beacon Node**
 
