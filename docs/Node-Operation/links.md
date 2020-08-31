@@ -26,3 +26,6 @@ Understand how collateralization and liquidation work, and what to do if a depos
 - Defipick: [Keep Network Review: KEEP, tBTC, and the Private Data Layer](http://defipicks.com/2020/04/30/keep-network-review-keep-tbtc-and-the-private-data-layer/)
 
 - Deribit: [Market Research on Sidechain designs for Bitcoin](https://insights.deribit.com/market-research/a-new-sidechain-design-for-bitcoin/)
+
+`Written & assembled by Keep Community.`
+`Contributors: Ramaruro, EstebanK`
