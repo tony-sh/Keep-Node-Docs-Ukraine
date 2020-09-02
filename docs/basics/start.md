@@ -1,5 +1,5 @@
 
-![Intro](../assets/images/keepdocgraf.jpg)
+![Intro](/assets/images/keepdocgraf.jpg)
 
 
 # Getting Started
