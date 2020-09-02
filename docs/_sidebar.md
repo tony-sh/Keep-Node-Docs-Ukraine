@@ -6,7 +6,7 @@
 	- [Project Characteristics](Reasons/reasons.md)
 	- [Strong Return on Investment](Reasons/roi.md)
 
-- [**Comparison with Other Alternatives**](comparison/comparesimilar.md)
+- [**Staking Alternatives Comparison**](comparison/comparesimilar.md)
 	
 
 - **Staking Documentation**
