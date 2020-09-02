@@ -71,7 +71,8 @@ The results are less attractive due to the following facts:
   <img width="800" src="https://user-images.githubusercontent.com/68167410/91621001-317e2a80-e957-11ea-8200-a6a1e0a553d7.png">
 </p>
 
-> **Note for Keep Team:** We suggest to add a fee (interest) that accrues linearly with time for the investment, in addition to the fees for minting and burning, to improve return for stakers.
+!> **Note for Keep Team:** We suggest to add a fee (interest) that accrues linearly with time for the investment, in addition to the fees for minting and burning, to improve return for stakers.
 
+---
 `Written & assembled by Keep Community.`
 `Contributors: Ramaruro, EstebanK`
