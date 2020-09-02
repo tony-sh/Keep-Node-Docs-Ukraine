@@ -6,9 +6,8 @@
 	- [Project Characteristics](Reasons/reasons.md)
 	- [Strong Return on Investment](Reasons/roi.md)
 
-- **Comparison with Other Alternatives**
-	- [Comparison with similar Services](comparison/comparesimilar.md)
-	- [Comparison with other Staking Options](comparison/comparesimilar.md)
+- [**Comparison with Other Alternatives**](comparison/comparesimilar.md)
+	
 
 - **Staking Documentation**
 	- [Keep Network 101](stakingdoc/keep101.md)
