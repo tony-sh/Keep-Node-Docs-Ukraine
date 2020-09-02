@@ -1,4 +1,6 @@
-# Overview of Staking Alternatives as an Investment
+# Staking Alternatives Comparison
+
+## Overview of Staking Alternatives as an Investment
 
 During the Keep Network StakeDrop, the subsidies make it a very strong investment. At Full Production with no Subsidies returns will depend on several elements, mainly Transaction Volume, Fees and Collateral Requirement Changes (if any).
 
