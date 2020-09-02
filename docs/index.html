@@ -22,10 +22,14 @@
   <link rel="stylesheet" href="https://unpkg.com/@fortawesome/fontawesome-free/css/regular.css" />
   <link rel="stylesheet" href="https://unpkg.com/@fortawesome/fontawesome-free/css/solid.css" />
 
+  <script src="//unpkg.com/docsify-edit-on-github/index.js"></script>
+
 </head>
 <body>
   <div id="app"></div>
   <script>
+    
+var repo = 'https://github.com/Estebank97/Keep-Node-Docs';
     // Docsify
     window.$docsify = {
       // GENERAL SETTINGS
@@ -35,7 +39,8 @@
       homepage: '/basics/start.md',
       coverpage: true,
       loadSidebar: true,
-
+      repo: repo,
+      
       // SIDEBAR NAVIGATION
       // -----------------------------------------------------------------
       auto2top   : true,
@@ -54,29 +59,15 @@
       // CUSTOM PLUGINS
       // -----------------------------------------------------------------
       plugins: [
-        function (hook, vm) {
-          hook.beforeEach(function (html) {
-            if (/githubusercontent\.com/.test(vm.route.file)) {
-              url = vm.route.file
-                .replace('raw.githubusercontent.com', 'github.com')
-                .replace(/\/master/, '/blob/master')
-            } else {
-              url = 'https://github.com/Estebank97/Keep-Node-Docs/tree/master/docs/' + vm.route.file
-            }
-            var editHtml = '[:memo: Edit this Page on GitHub](' + url + ')\n'
-
-            // Adjust GitHub displayable image URL format to also work in Docsify
-            html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
-
-            return editHtml
-              + html
-              + '\n\n----\n\n'
-              + '<a href="https://docsify.js.org" target="_blank" style="color: inherit; font-weight: normal;">Powered by docsify</a>'
-          })
-        }
-      ]
+                EditOnGithubPlugin.create(
+                    repo + '/blob/master/docs/',
+                    null,
+                    '📝 Edit on GitHub',
+                )
+            ],
     }
   </script>
+
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 
   <!-- Customizable Theme-->
