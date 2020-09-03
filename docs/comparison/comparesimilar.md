@@ -30,6 +30,8 @@ Staking in another Network can produce rewards that range around 3%-10% (after i
 
 Note that all Network Staking Options show % Rewards in Nominal terms, i.e. if you stake in DOT tokens, rewards are in DOT tokens, therefore it is almost impossible to anticipate returns in Fiat currency. Also, these networks have Inflation enabled to pay for these rewards, so both your stake and rewards are diluted. That effect is not shown below, but it is calculated in the [Staking Rewards Site](https://www.stakingrewards.com/) used for  reference.
 
+>This article also does a comparison between Keep Network and [Cosmos Validator](https://keeptools.org/comparison/cosmos-validator) / [RenVM Darknode](https://keeptools.org/comparison/renvm-darknode) and includes additional technical aspects.
+
 | **Application/Blockchain**| **Technology**|**Staking Requirements**|**Token**|**ROI Expectations**|
 | --- | --- | --- | --- | --- | 
 | tBTC | Random Beacon, ECDSA| Random Beacon: 90,000 KEEP, ECDSA: 150%+ of the Minted BTC| Random Beacon: [KEEP](https://www.coingecko.com/en/coins/keep-network), ECDSA: ETH initially, Later KEEP | See above for Key ROI considerations. Very Strong incentives during Stakedrop to participate and bootstrap the Network| 

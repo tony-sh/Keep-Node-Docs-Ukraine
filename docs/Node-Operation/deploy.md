@@ -31,6 +31,8 @@ In general, the installation always includes the same steps:
 
 The guides have some differences relating to where to install, which steps are thorougly explained and if there is more or less automation in the deployment involved. It's up to your choice and if you have difficulties you can always head to the Keep discord channel, where you can find most guide authors and further help.
 
+?> This [Keep Tools Guide](https://keeptools.org/) allows to generate some of the files necessary for the deployment and includes some [Docker Commands](https://keeptools.org/docker-commands) that help with managing Docker.
+
 ## Official Keep Network's System Considerations for Random Beacon Node
 You can find the official **Run Random Beacon** documentation from Keep Network [here](https://docs.keep.network/run-random-beacon.html).
 It's really technical thorough explanation of the node setup, but it's not meant for newbies. However there are some System Considerations, which are important to keep in mind :
