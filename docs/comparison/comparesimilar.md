@@ -30,7 +30,6 @@ Staking in another Network can produce rewards that range around 3%-10% (after i
 
 Note that all Network Staking Options show % Rewards in Nominal terms, i.e. if you stake in DOT tokens, rewards are in DOT tokens, therefore it is almost impossible to anticipate returns in Fiat currency. Also, these networks have Inflation enabled to pay for these rewards, so both your stake and rewards are diluted. That effect is not shown below, but it is calculated in the [Staking Rewards Site](https://www.stakingrewards.com/) used for  reference.
 
->This article also does a comparison between Keep Network and [Cosmos Validator](https://keeptools.org/comparison/cosmos-validator) / [RenVM Darknode](https://keeptools.org/comparison/renvm-darknode) and includes additional technical aspects.
 
 | **Application/Blockchain**| **Technology**|**Staking Requirements**|**Token**|**ROI Expectations**|
 | --- | --- | --- | --- | --- | 
@@ -41,6 +40,7 @@ Note that all Network Staking Options show % Rewards in Nominal terms, i.e. if y
 |[Zilliqa](https://www.zilliqa.com/staking)|  Currently can only stake through Exchanges| Variable| [ZIL](https://www.coingecko.com/en/coins/zilliqa)| ~10% Nominators, check [Current Rewards](https://www.stakingrewards.com/earn/zilliqa)  |
 |ETH2|  Currently in Testnet | 32 ETH| ETH| [Future Rewards Estimates](https://www.stakingrewards.com/earn/ethereum-2-0)| 
 
+>This article also does a comparison between Keep Network and [Cosmos Validator](https://keeptools.org/comparison/cosmos-validator) / [RenVM Darknode](https://keeptools.org/comparison/renvm-darknode) and includes additional technical aspects.
 
 ---
 `Written & assembled by Keep Community.`
