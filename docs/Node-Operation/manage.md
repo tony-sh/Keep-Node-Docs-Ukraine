@@ -126,9 +126,39 @@ The key activities to update both nodes are the following:
      - BondedECDSAKeepFactory = `“0x9EcCf03dFBDa6A5E50d7aBA14e0c60c2F6c575E6”`
      - Sanctioned Applications = `“0xc3f96306eDabACEa249D2D22Ec65697f38c6Da69”`
 * Start Docker Containers :
-  - This command may change according to the guide you used initially (e.g. the ports may not be 3919:3919). Make sure you reference the new docker images and run each in their own folder if on the same VPS !
-  - For Random Beacon: `sudo docker run -dit --restart always --volume $HOME/keep-client:/mnt --env KEEP_ETHEREUM_PASSWORD=$KEEP_CLIENT_ETHEREUM_PASSWORD --env LOG_LEVEL=debug --log-opt max-size=100m --log-opt max-file=3 --name keep-client -p 3919:3919 keepnetwork/keep-client:v1.3.0-rc.3 --config  /mnt/config/config.toml start`
-  - For ECDSA: `sudo docker run -d --restart always --entrypoint /usr/local/bin/keep-ecdsa --volume $HOME/keep-ecdsa:/mnt/keep-ecdsa --env KEEP_ETHEREUM_PASSWORD=$KEEP_CLIENT_ETHEREUM_PASSWORD --env LOG_LEVEL=debug --log-opt max-size=100m --log-opt max-file=3 --name ecdsa -p 3919:3919 keepnetwork/keep-ecdsa-client:v1.2.0-rc.4 --config /mnt/keep-ecdsa/config/config.toml start`
+  Write this as only one command and keep in mind that it may change according to the guide you used initially (e.g. the ports may not be 3919:3919).
+  
+  Make sure you reference the new docker images and run each in their own folder if on the same VPS !
+  
+  
+  - For Random Beacon:
+  
+  
+        sudo docker run -dit
+        --restart always
+        --volume $HOME/keep-client:/mnt      
+        --env KEEP_ETHEREUM_PASSWORD=$KEEP_CLIENT_ETHEREUM_PASSWORD     
+        --env LOG_LEVEL=debug     
+        --log-opt max-size=100m     
+        --log-opt max-file=3     
+        --name keep-client     
+        -p 3919:3919 keepnetwork/keep-client:v1.3.0-rc.3     
+        --config  /mnt/config/config.toml start
+      
+      
+  - For ECDSA: 
+  
+  
+        sudo docker run -d     
+        --restart always     
+        --entrypoint /usr/local/bin/keep-ecdsa     
+        --volume $HOME/keep-ecdsa:/mnt/keep-ecdsa     
+        --env KEEP_ETHEREUM_PASSWORD=$KEEP_CLIENT_ETHEREUM_PASSWORD     
+        --env LOG_LEVEL=debug     
+        --log-opt max-size=100m     
+        --log-opt max-file=3     
+        --name ecdsa -p 3919:3919 keepnetwork/keep-ecdsa-client:v1.2.0-rc.4     
+        --config /mnt/keep-ecdsa/config/config.toml start
 
 * Check Logs for connection to Peers :
   - For Random Beacon: `sudo docker logs keep-client 2>&1 --since 5m | grep "number of connected peers"`
@@ -170,7 +200,7 @@ The key activities to update both nodes are the following:
 * Start Docker Containers :
   - This command may change according to the guide you used initially (e.g. the ports may not be 3919:3919). Make sure you reference the new docker images and run each in their own folder if on the same VPS !
   - For Random Beacon: `sudo docker run -dit --restart always --volume $HOME/keep-client:/mnt --env KEEP_ETHEREUM_PASSWORD=$KEEP_CLIENT_ETHEREUM_PASSWORD --env LOG_LEVEL=debug --log-opt max-size=100m --log-opt max-file=3 --name keep-client -p 3919:3919 keepnetwork/keep-client:v1.3.0-rc --config  /mnt/config/config.toml start`
-  - For ECDSA: `sudo docker run -d --restart always --entrypoint /usr/local/bin/keep-ecdsa --volume $HOME/keep-ecdsa:/mnt/keep-ecdsa --env KEEP_ETHEREUM_PASSWORD=$KEEP_CLIENT_ETHEREUM_PASSWORD --env LOG_LEVEL=debug --log-opt max-size=100m --log-opt max-file=3 --name ecdsa -p 3919:3919 keepnetwork/keep-ecdsa-client:v1.2.0-rc --config /mnt/keep-ecdsa/config/config.toml start`
+  - For ECDSA: `sudo docker run -d    --restart always    --entrypoint /usr/local/bin/keep-ecdsa    --volume $HOME/keep-ecdsa:/mnt/keep-ecdsa    --env KEEP_ETHEREUM_PASSWORD=$KEEP_CLIENT_ETHEREUM_PASSWORD    --env LOG_LEVEL=debug    --log-opt max-size=100m    --log-opt max-file=3     --name ecdsa -p 3919:3919 keepnetwork/keep-ecdsa-client:v1.2.0-rc    --config /mnt/keep-ecdsa/config/config.toml start`
 
 * Check Logs for connection to Peers :
   - For Random Beacon: `sudo docker logs keep-client 2>&1 --since 5m | grep "number of connected peers"`
