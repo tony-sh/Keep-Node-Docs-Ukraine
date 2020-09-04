@@ -142,8 +142,8 @@ The key activities to update both nodes are the following:
         --log-opt max-size=100m     
         --log-opt max-file=3     
         --name keep-client     
-        -p 3919:3919 keepnetwork/keep-client:v1.3.0-rc.3     
-        --config  /mnt/config/config.toml start
+        -p 3919:3919 
+        keepnetwork/keep-client:v1.3.0-rc.3 --config /mnt/config/config.toml start
       
       
   - For ECDSA: 
@@ -157,8 +157,9 @@ The key activities to update both nodes are the following:
         --env LOG_LEVEL=debug     
         --log-opt max-size=100m     
         --log-opt max-file=3     
-        --name ecdsa -p 3919:3919 keepnetwork/keep-ecdsa-client:v1.2.0-rc.4     
-        --config /mnt/keep-ecdsa/config/config.toml start
+        --name ecdsa 
+        -p 3919:3919 
+        keepnetwork/keep-ecdsa-client:v1.2.0-rc.4 --config /mnt/keep-ecdsa/config/config.toml start
 
 * Check Logs for connection to Peers :
   - For Random Beacon: `sudo docker logs keep-client 2>&1 --since 5m | grep "number of connected peers"`
