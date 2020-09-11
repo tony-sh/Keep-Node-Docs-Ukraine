@@ -97,7 +97,7 @@ In this case you have to do the following:
 As an alternative of editing, this guide from **Papyasha** [Update Nodes](https://gist.github.com/papyasha/7d97cb53aa1153cc65b0535c2b9f23e3) shows a clean way of updating the Config files by removing and redeploying them. It also includes the link to the original deployment of the nodes with all the necessary details.
 
 ---
-### September 2 Update
+### September 2, 2020 Update (+ September 8th new contracts)
 The key activities to update both nodes are the following:
 * Get a New Grant for the KEEP Tokens from the Testnet Faucet:
   - https://us-central1-keep-test-f3e0.cloudfunctions.net/keep-faucet-ropsten?account= **`"Your Operator Ethereum Address"`**
@@ -170,7 +170,7 @@ The key activities to update both nodes are the following:
 
 
 ---
-### August 7 Update
+### August 7, 2020 Update
 The key activities to update both nodes are the following:
 * Get a New Grant for the KEEP Tokens from the Testnet Faucet:
   - https://us-central1-keep-test-f3e0.cloudfunctions.net/keep-faucet-ropsten?account= **`"Your Operator Ethereum Address"`**
