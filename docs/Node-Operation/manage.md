@@ -113,8 +113,8 @@ The key activities to update both nodes are the following:
   - For Random Beacon: `sudo docker rm keep-client`
   - For ECDSA: `sudo docker rm ecdsa`
 * Pull New Docker Images :
-  - For Random Beacon: `sudo docker pull keepnetwork/keep-client:v1.3.0-rc.3`
-  - For ECDSA: `sudo docker pull keepnetwork/keep-ecdsa-client:v1.2.0-rc.4`
+  - For Random Beacon: `sudo docker pull keepnetwork/keep-client:v1.3.0-rc.4`
+  - For ECDSA: `sudo docker pull keepnetwork/keep-ecdsa-client:v1.2.0-rc.5`
 * Update Config.toml file with new contracts :
   - If running both nodes on the same VPS remember each config file is in its own folder. In this example named keep-client and keep-ecdsa.
   - Make sure you check the correct folders names with `ls` command.
@@ -143,7 +143,7 @@ The key activities to update both nodes are the following:
         --log-opt max-file=3     
         --name keep-client     
         -p 3919:3919 
-        keepnetwork/keep-client:v1.3.0-rc.3 --config /mnt/config/config.toml start
+        keepnetwork/keep-client:v1.3.0-rc.4 --config /mnt/config/config.toml start
       
       
   - For ECDSA: 
@@ -159,7 +159,7 @@ The key activities to update both nodes are the following:
         --log-opt max-file=3     
         --name ecdsa 
         -p 3919:3919 
-        keepnetwork/keep-ecdsa-client:v1.2.0-rc.4 --config /mnt/keep-ecdsa/config/config.toml start
+        keepnetwork/keep-ecdsa-client:v1.2.0-rc.5 --config /mnt/keep-ecdsa/config/config.toml start
 
 * Check Logs for connection to Peers :
   - For Random Beacon: `sudo docker logs keep-client 2>&1 --since 5m | grep "number of connected peers"`
