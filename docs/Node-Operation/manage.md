@@ -33,6 +33,8 @@ Although this increases the cost of operation, if there are issues with operatio
 
 ## Node Health Verification
 
+!>**@Herobrine** made this really awesome app you can run to verify Node Health: [KeepNode.app](https://keepnode.app/)
+
 ### ECDSA Node Maintenance
 
 The main verification you have to do is that the ECDSA node is connected to Peers:
