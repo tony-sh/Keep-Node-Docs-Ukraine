@@ -87,6 +87,10 @@ Some sort of problem with Keep Contracts on-chain, nothing you can do about it.
 </p>
 Problem is on-chain, something to do with trying to join the bonded sortition pool.
 
+
+
+!> @Nico186 made this excelent [document](https://docs.google.com/document/u/2/d/e/2PACX-1vRYtVyLSwuNBL9Xk-M1HeHloJ7MIGqwiEzsuXYnKHQqnSz2gfd2Q3czJeOzEferPKIr7GvIznQxsckb/pub) about interpreting KEEP Error and Warning Logs.
+
 ---
 `Written & assembled by Keep Community.`
 `Contributors: Ramaruro, EstebanK`
