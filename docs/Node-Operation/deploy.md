@@ -56,6 +56,8 @@ Nick's guide (Gregory#6997 in Discord) has screenshots for every step involved a
 
 The other well known Beginner Guide, also with easy to follow screenshots explanations of every step.
 
+- **JackRemix'** [The absolute beginner’s guide to Playing for Keeps](https://medium.com/@jack.baldwin/the-absolute-beginners-guide-to-playing-for-keeps-aea9ab32f6e8) is a newer **really impressive** guide, with every step well explained !
+
 ## Other Guides
 
 - **Alex Novy's** [Run Random Beacon in KEEP Network Testnet](https://medium.com/@novysf/run-a-keep-network-testnet-node-37096946af35)
