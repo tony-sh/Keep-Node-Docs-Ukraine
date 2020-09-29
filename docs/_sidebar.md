@@ -23,6 +23,7 @@
 - **Node Operation**
   - [Intro](Node-Operation/intro-operation.md)
   - [Deploy your Nodes](Node-Operation/deploy.md)
+  - [Mainnet Node Operation](Node-Operation/mainnet.md)
   - [Manage your Nodes](Node-Operation/manage.md)
   - [Troubleshooting](Node-Operation/troubleshooting.md)
   - [Monitoring and Remote Alerting](Node-Operation/monitoring.md)
