@@ -235,9 +235,27 @@ A curated list of keep-network and tBTC dapp related resources.
   <img width="450" src="https://user-images.githubusercontent.com/68087535/94614278-4ca4c880-027c-11eb-8859-1dccd4b609b6.png">
 </p>
 
+## Keep Backups !
+Node Backups Guide
+
+**Suprnrdy's :** [Keep Backups](https://www.notion.so/parleylabs/KEEP-BACKUPS-42a73ee62fb74c8193669c00b739265f)
+- If you're running a mainnet node and you're not backing up your data yet, remember
+- You’re storing a key to a deposit so you want to make sure that key is backed up incase of loss
+- make sure you start doing it now, because you never want to lose any of your data, you can loose your bond !
+- tutorial using Backblaze B2 + RClone
 
 
+<p align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/68087535/94620605-47984700-0285-11eb-8439-7e6897b55d7f.png">
+</p>
 
-most simple guide of how to install both Random Beacon and ECDSA Keep Network nodes on one VPS 
+## Keep-deposit.com
+TBTC deposits Explorer Tool
+
+**Witter's :** [Keep-deposit](https://keep-deposit.com/#/)
+- Explorer for deposits in progress (tracking Bitcoin, Ethereum state and proofs) mainnet
 
 
+<p align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/68087535/94620809-980fa480-0285-11eb-8c85-a8cea1acd793.png">
+</p>
