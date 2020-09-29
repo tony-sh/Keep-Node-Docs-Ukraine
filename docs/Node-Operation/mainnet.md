@@ -19,17 +19,19 @@ When we run a node on Mainnet we must keep in mind that we put staking and bondi
 - process and monitor your logs, notify for high log level issues
 
 ## Back Up
-!<Everyone that's currently a mainnet staker, or planning on being a mainnet staker should implement this and make sure they're backing up their data properly. If you're not doing so, do it right now because there is a high chance that you will lose your ETH bond if not taken care of.
+!>Everyone that's currently a mainnet staker, or planning on being a mainnet staker should implement this and make sure they're backing up their data properly. If you're not doing so, do it right now because there is a high chance that you will lose your ETH bond if not taken care of.
 
 If you're running the ECDSA node, you're not just storing data, you're storing 1/3 of a multi-sig key used to sign BTC transactions. If your system is not up/available/responsive during a request for BTC (redemption of tBTC), you WILL BE AT RISK for liquidation and lose the ETH staked to that bond. The Redemption Proof (SVP proof confirming the BTC transaction) needs to be submitted within 6 hours of redemption request, the liquidation process can be triggered if not submitted in this time frame
 
-**Alterkhan's :** [Most simple guide of how to install both Random Beacon and ECDSA Keep Network nodes on one VPS ](https://steemit.com/keepnetwork/@coinsniperx/the-most-simple-guide-of-how-to-install-both-random-beacon-and-ecdsa-keep-network-nodes-on-one-vps)
-- Visual step-bys-step guide to install your nodes
-- very complete, includes all steps needed
-<p align="center">
-  <img width="450" src="https://steemitimages.com/1280x0/https://cdn.steemitimages.com/DQmTWqZawot34WSqesHKhUJgrrr55tXUr9YDCtd7sND7i2U/nodes%20guide.png">
-</p>
+## Keep Backups !
+Node Backups Guide
 
+**Suprnrdy's :** [Keep Backups](https://www.notion.so/parleylabs/KEEP-BACKUPS-42a73ee62fb74c8193669c00b739265f)
+- tutorial using Backblaze B2 + RClone
+
+<p align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/68087535/94620605-47984700-0285-11eb-8439-7e6897b55d7f.png">
+</p>
 
 
 ## Monitoring
@@ -42,7 +44,7 @@ If you're running the ECDSA node, you're not just storing data, you're storing 1
 - This is a shell script which automates the installation and configuration for the above guides (with cAdvisor and NodeExporter) and Loki.
 
 ** Pantsme´s Guide :**
-- Monitoring & Backup on [Github](https://gist.github.com/afmsavage/7c8a9ccf085bedbc0a2880472a9ef984)
+- Monitoring & Backup for AWS on [Github](https://gist.github.com/afmsavage/7c8a9ccf085bedbc0a2880472a9ef984)
 
 ## Community Tools
 - All tools mentioned in [Tools Section](https://raw.githubusercontent.com/Estebank97/Keep-Node-Docs/master/docs/basics/tools.md) are awesame.
