@@ -5,6 +5,7 @@
 - **Key Reasons for Staking in Keep Network**
 	- [Project Characteristics](Reasons/reasons.md)
 	- [Strong Return on Investment](Reasons/roi.md)
+	- [Community Tools](basics/tools.md)
 
 - [**Staking Alternatives Comparison**](comparison/comparesimilar.md)
 	
