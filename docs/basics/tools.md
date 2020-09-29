@@ -155,9 +155,22 @@ Node Creation Tool
 **ИльяBazilik's :** [1click-keep.com](http://1click-keep.com/)
 - This web application allows you to run a KEEP node on a newly created server
 - without using the console and without having to go to your server!
+- should have completed previous infura and wallet steps (check Deploy your nodes section)
 <p align="center">
-  <img width="400" src="https://user-images.githubusercontent.com/68087535/94489471-e3a94c00-01ba-11eb-9c8e-e89f2779d3dc.png">
+  <img width="450" src="https://user-images.githubusercontent.com/68087535/94489471-e3a94c00-01ba-11eb-9c8e-e89f2779d3dc.png">
 </p>
+
+## Most simple Nodes installation on one VPS
+Node Creation Tool
+
+
+**Alterkhan's :** [Most simple guide of how to install both Random Beacon and ECDSA Keep Network nodes on one VPS ](https://steemit.com/keepnetwork/@coinsniperx/the-most-simple-guide-of-how-to-install-both-random-beacon-and-ecdsa-keep-network-nodes-on-one-vps)
+- Visual step-bys-step guide to install your nodes
+- very complete, includes all steps needed
+<p align="center">
+  <img width="450" src="https://steemitimages.com/1280x0/https://cdn.steemitimages.com/DQmTWqZawot34WSqesHKhUJgrrr55tXUr9YDCtd7sND7i2U/nodes%20guide.png">
+</p>
+
 
 ## tBTC & Keep Rewards Mechanics
 Report
@@ -167,6 +180,16 @@ Report
 
 <p align="center">
   <img width="450" src="https://user-images.githubusercontent.com/68087535/94491846-60d6c000-01bf-11eb-8c32-5602efd3fd6b.png">
+</p>
+
+## Insurance for blockchain smart contracts
+Report
+
+
+**Ben Longstaff's :** [Insurance for blockchain smart contracts — using Nexus Mutual to insure using TBTC](https://medium.com/@ben_longstaff/insurance-for-blockchain-smart-contracts-using-nexus-mutual-to-insure-using-tbtc-d01604af5859)
+
+<p align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/68087535/94616636-701d4280-027f-11eb-89a4-1973a7e1f7a1.png">
 </p>
 
 ## Keepforum.top
@@ -215,6 +238,6 @@ A curated list of keep-network and tBTC dapp related resources.
 
 
 
-
+most simple guide of how to install both Random Beacon and ECDSA Keep Network nodes on one VPS 
 
 
