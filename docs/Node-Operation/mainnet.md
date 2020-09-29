@@ -17,6 +17,7 @@ When we run a node on Mainnet we must keep in mind that we put staking and bondi
 - have it notify you for emergencies in a way that will be able to reach you and get your attention at any hour
 - stay up to date on system updates, security vulnerability notices, keep client updates
 - process and monitor your logs, notify for high log level issues
+h/t kferret
 
 ## Back Up
 !>Everyone that's currently a mainnet staker, or planning on being a mainnet staker should implement this and make sure they're backing up their data properly. If you're not doing so, do it right now because there is a high chance that you will lose your ETH bond if not taken care of.
