@@ -1,11 +1,11 @@
 - **Getting Started**
 	- [Basic Description - TLDR](basics/start.md)
 	- [Introduction to Keep Network & tBTC](basics/intro.md)
+	- [Community Tools](basics/tools.md)
 
 - **Key Reasons for Staking in Keep Network**
 	- [Project Characteristics](Reasons/reasons.md)
 	- [Strong Return on Investment](Reasons/roi.md)
-	- [Community Tools](basics/tools.md)
 
 - [**Staking Alternatives Comparison**](comparison/comparesimilar.md)
 	
