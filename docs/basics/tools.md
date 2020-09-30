@@ -1,6 +1,8 @@
 # Useful Keep Community Doc & Tools 
-There are a lot of very useful tools and docs has been developed by prominent Keep community members in the last month of September 2020.
-Don't forget to checkout Node Operation Section as well, where you can find lot of docs, guides and how-to's.
+There are a lot of very useful tools and docs developed by prominent Keep community members in the last month of September 2020. Here is a list :
+
+
+?<Don't forget to checkout [Node Operation Section](https://estebank97.github.io/Keep-Node-Docs/#/Node-Operation/intro-operation) as well, where you can find lot of docs, guides and how-to's.
 
 ## Keepnode.app
 Node Operation Assistance Tool
