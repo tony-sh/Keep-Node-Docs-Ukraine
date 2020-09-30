@@ -2,14 +2,6 @@
 
 This Section covers Node Management Considerations: once the nodes are set up and running you have to monitor while in operation and upgrade them whenever new contracts or new versions of the clients are deployed by the Keep Team.
 
-**Content of this Section**
-- [Best Practices](https://github.com/Estebank97/Keep-Node-Operation/wiki/Manage-your-Nodes#best-practices)
-- [Node Health Verification](https://github.com/Estebank97/Keep-Node-Operation/wiki/Manage-your-Nodes#node-health-verification)
-- [Undercollateralization and Liquidation](https://github.com/Estebank97/Keep-Node-Operation/wiki/Manage-your-Nodes#undercollateralization-and-liquidation)
-- [Nodes Updating](https://github.com/Estebank97/Keep-Node-Operation/wiki/Manage-your-Nodes#node-updates)
-  - [General Guidelines for Updates](https://github.com/Estebank97/Keep-Node-Operation/wiki/Manage-your-Nodes#general-guidelines-for-updates)
-  - [August 7 Update](https://github.com/Estebank97/Keep-Node-Operation/wiki/Manage-your-Nodes#august-7-update)
-
 ## Best Practices
 
 
@@ -23,7 +15,7 @@ This is a quick and easy way to check that the Nodes are active, but should not 
 </p>
 
 
-### Use diferent Virtual Private Server (VPS) per Node
+### Use different Virtual Private Server (VPS) per Node
 
 Although this increases the cost of operation, if there are issues with operations or upgrades, you can distribute the risk better.
 
@@ -62,6 +54,9 @@ Type: `sudo docker logs ecdsa --since 5m | grep "connected"`
 </p>
 
 
+!> If running nodes on mainnet be sure to follow steps in [Mainnet Node Operation Section](https://estebank97.github.io/Keep-Node-Docs/#/Node-Operation/mainnet) and use [Community Tools](https://estebank97.github.io/Keep-Node-Docs/#/basics/tools) for node assistance. 
+
+
 ## Undercollateralization and Liquidation
 
 There is a serious risk that due to relative price fluctuations of the ETH / BTC pair, your collateral (actually, the collateral of the Keep(s) that you have signed) is not sufficient and you run the risk of Liquidation.
@@ -73,10 +68,12 @@ Currently, the monitoring has to be manual, i.e. verification of ETH/BTC relativ
 
 [Latenthero](https://discord.com/channels/590951101600235531/590951101600235533/737707953221664779) created a [Telegram Bot](https://t.me/keep_alert_bot) for alerting when the ETH available for bonding is below a user set threshold. The code for the bot can be seen and eventually repurposed [here](https://github.com/latenthero/keep-alert-bot). It is available for Testnet as of August 2020.
 
-This document from Experience#2376 (in Discord) provides more details with references to the software code involved: [tBTC risk - liquidation and slashing details](https://hackmd.io/OzIeyWcfTVO69zIF67XCkg). This graph from the document explains the risks well.
+This document from Experience#2376 provides more details with references to the software code involved: [tBTC risk - liquidation and slashing details](https://hackmd.io/OzIeyWcfTVO69zIF67XCkg). This graph from the document explains the risks well.
 <p align="center">
   <img width="800" src="https://user-images.githubusercontent.com/68167410/88967178-0975ab80-d273-11ea-9696-15f2ce8995c5.png">
 </p>
+
+h/t ssh
 
 
 ## Node Updates
