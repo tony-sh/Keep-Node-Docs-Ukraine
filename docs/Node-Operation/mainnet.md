@@ -3,7 +3,7 @@
 
 Running either KEEP nodes (Random Beacon or ECDSA) on mainnet requires a level of diligence and responsibility
 
-When we run a node on Mainnet we must keep in mind that we put staking and bonding assets, which could be seized/slashed on our and other nodes if we don't have a properly running operation.
+!>When we run a node on Mainnet we must keep in mind that we put staking and bonding assets, which could be seized/slashed on our and other nodes if we don't have a properly running operation.
 
  
  
@@ -17,6 +17,8 @@ When we run a node on Mainnet we must keep in mind that we put staking and bondi
 - have it notify you for emergencies in a way that will be able to reach you and get your attention at any hour
 - stay up to date on system updates, security vulnerability notices, keep client updates
 - process and monitor your logs, notify for high log level issues
+
+
 h/t kferret
 
 ## Back Up
