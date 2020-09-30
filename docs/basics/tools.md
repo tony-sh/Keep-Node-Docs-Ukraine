@@ -49,6 +49,7 @@ Node Contracts List
   <img width="450" src="https://user-images.githubusercontent.com/68087535/94491079-e2c5e980-01bd-11eb-96ad-e5d2ad1707c7.png">
 </p>
 
+
 ## Node Running Risks
 Node Operation Assistance Guide
 
@@ -58,6 +59,20 @@ Node Operation Assistance Guide
 <p align="center">
   <img width="450" src="https://user-images.githubusercontent.com/68087535/94718480-2d637500-0328-11eb-8b28-d9b1fd4e323e.png">
 </p>
+
+## Keep Staking Risks and Mitigation
+Node Operation Assistance Guide
+
+**StateLayer's :** [Keep stakedrop risks and mitigation strategiess](https://hackmd.io/@LayerState/KeepStakedropRisks)
+- different ways you could lose the ETH you staked
+- different ways you could mitigate these risks
+
+<p align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/68087535/94726467-ac11df80-0333-11eb-85c5-7ab76c70bc7a.png">
+</p>
+
+
+
 
 
 ## Node Operation Error lists
