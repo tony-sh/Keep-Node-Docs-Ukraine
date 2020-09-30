@@ -2,7 +2,7 @@
 There are a lot of very useful tools and docs developed by prominent Keep community members in the last month of September 2020. Here is a list :
 
 
-?<Don't forget to checkout [Node Operation Section](https://estebank97.github.io/Keep-Node-Docs/#/Node-Operation/intro-operation) as well, where you can find lot of docs, guides and how-to's.
+?<Don't forget to checkout [Node Operation Section](https://estebank97.github.io/Keep-Node-Docs/#/Node-Operation/intro-operation) as well, where you can find lot of docs, guides and how-to's and further assistance on deploying, maintaining, monitoring and troubleshooting your Nodes.
 
 ## Keepnode.app
 Node Operation Assistance Tool
