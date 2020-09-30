@@ -49,6 +49,17 @@ Node Contracts List
   <img width="450" src="https://user-images.githubusercontent.com/68087535/94491079-e2c5e980-01bd-11eb-96ad-e5d2ad1707c7.png">
 </p>
 
+## Node Running Risks
+Node Operation Assistance Guide
+
+**Ssh's :** [Keep Nodes Risks - Liquidation and Slashing Details](https://hackmd.io/@protocollayer/BkUBl7zIw)
+- better assess the risks of running Keep Network Nodes
+
+<p align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/68087535/94718480-2d637500-0328-11eb-8b28-d9b1fd4e323e.png">
+</p>
+
+
 ## Node Operation Error lists
 Node Errors guide
 
