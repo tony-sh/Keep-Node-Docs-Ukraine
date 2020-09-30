@@ -131,7 +131,7 @@ Node Creation Tool
 </p>
 
 ## Allthekeeps.com
-Minted tBTC & TDT analysis Tool
+Minted TBTC & TDT analysis Tool
 
 
 **Pythonmetaclass’ :** [Allthekeeps.com](https://allthekeeps.com/)
@@ -143,12 +143,12 @@ Minted tBTC & TDT analysis Tool
   <img width="450" src="https://user-images.githubusercontent.com/68087535/94490716-2c620480-01bd-11eb-9bf4-4264e4666ff4.png">
 </p>
 
-## tBTC explorer
-Minted tBTC Exploration Site
+## TBTC explorer
+Minted TBTC Exploration Site
 
 
-**NickG's :** [tBTC Explorer](https://keep-explorer.info/) 
-- view information about tBTC deposits on mainnet
+**NickG's :** [TBTC Explorer](https://keep-explorer.info/) 
+- view information about TBTC deposits on mainnet
 - shows detailed information about the deposit process
 - provides search deposits by address feature, view a transfer history
 <p align="center">
@@ -177,7 +177,7 @@ Minted TBTC Watching Tool
 
 **Swe's :** [Keep Helper](https://www.keephelper.io/) 
 - works on mainnet with our ETH address
-- shows information about all and our tBTC holdings, deposits, transfers and mintings
+- shows information about all and our TBTC holdings, deposits, transfers and mintings
 - view upcoming liquidations, notify, and purchase them
 - request random beacon entries and view previous entries
 <p align="center">
@@ -208,7 +208,7 @@ Keep Token Price Site
 </p>
 
 ## Keepswap.com
-DeFi Aggregator for KEEP tokens
+KEEP tokens swapping tool
 
 **Evandro Saturnino's :** [Keepswap](https://keepswap.app/)
 - Swap your KEEP tokens and get the best prices across all decentralized crypto exchanges.
