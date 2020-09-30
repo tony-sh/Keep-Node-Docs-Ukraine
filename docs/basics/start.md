@@ -13,7 +13,7 @@ Staked tokens are delegated by a KEEP token holder to an operator address, who p
 
 ## Contents
 
-- [Introduction]((basics/intro.md)) : Intro and context to Keep and tBTC.
+- [Introduction](basics/intro.md) : Intro and context to Keep and tBTC.
 - [Key Reasons for Staking in Keep Network:](Reasons/reasons.md) Understand why it is meaningful to stake in Keep Network.
 - [Comparison with Other Alternatives:](comparison/comparesimilar.md) Compare Keep Staking with other staking alternatives currently available in crypto.
 - [Staking Documentation:](stakingdoc/keep101.md) Official Keep Team's documentation about staking. 
