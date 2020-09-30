@@ -86,6 +86,20 @@ Node Monitoring guide
   <img width="450" src="https://user-images.githubusercontent.com/68087535/94491286-536d0600-01be-11eb-8ce6-287b5fbf6ea1.png">
 </p>
 
+## Keep Backups !
+Node Backups Guide
+
+**Suprnrdy's :** [Keep Backups](https://www.notion.so/parleylabs/KEEP-BACKUPS-42a73ee62fb74c8193669c00b739265f)
+- If you're running a mainnet node and you're not backing up your data yet, remember
+- You’re storing a key to a deposit so you want to make sure that key is backed up incase of loss
+- make sure you start doing it now, because you never want to lose any of your data, you can loose your bond !
+- tutorial using Backblaze B2 + RClone
+
+
+<p align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/68087535/94620605-47984700-0285-11eb-8439-7e6897b55d7f.png">
+</p>
+
 ## Keeptools.org
 Node Creation Tool
 
@@ -113,18 +127,7 @@ Keep Token Exploration tool
 </p>
 
 
-## keephelper.io
-Minted TBTC Watching Tool
 
-
-**Swe's :** [Keep Helper](https://www.keephelper.io/) 
-- works on mainnet with our ETH address
-- shows information about all and our tBTC holdings, deposits, transfers and mintings
-- view upcoming liquidations, notify, and purchase them
-- request random beacon entries and view previous entries
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94608720-2c710b80-0274-11eb-8710-38b4ba486af6.png">
-</p>
 
 ## Keep Stakedrop vs NuCypher Lockdrop
 Report
@@ -235,19 +238,7 @@ A curated list of keep-network and tBTC dapp related resources.
   <img width="450" src="https://user-images.githubusercontent.com/68087535/94614278-4ca4c880-027c-11eb-8859-1dccd4b609b6.png">
 </p>
 
-## Keep Backups !
-Node Backups Guide
 
-**Suprnrdy's :** [Keep Backups](https://www.notion.so/parleylabs/KEEP-BACKUPS-42a73ee62fb74c8193669c00b739265f)
-- If you're running a mainnet node and you're not backing up your data yet, remember
-- You’re storing a key to a deposit so you want to make sure that key is backed up incase of loss
-- make sure you start doing it now, because you never want to lose any of your data, you can loose your bond !
-- tutorial using Backblaze B2 + RClone
-
-
-<p align="center">
-  <img width="450" src="https://user-images.githubusercontent.com/68087535/94620605-47984700-0285-11eb-8439-7e6897b55d7f.png">
-</p>
 
 ## Keep-deposit.com
 TBTC deposits Explorer Tool
@@ -258,4 +249,28 @@ TBTC deposits Explorer Tool
 
 <p align="center">
   <img width="450" src="https://user-images.githubusercontent.com/68087535/94620809-980fa480-0285-11eb-8c85-a8cea1acd793.png">
+</p>
+
+## Keepswap.com
+DeFi Aggregator for KEEP tokens
+
+**Evandro Saturnino's :** [Keepswap](https://keepswap.app/)
+- Swap your KEEP tokens and get the best prices across all decentralized crypto exchanges.
+
+
+<p align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/68087535/94694871-abfde980-030b-11eb-8bc1-dcb0f06184dc.png">
+</p>
+
+## keephelper.io
+Minted TBTC Watching Tool
+
+
+**Swe's :** [Keep Helper](https://www.keephelper.io/) 
+- works on mainnet with our ETH address
+- shows information about all and our tBTC holdings, deposits, transfers and mintings
+- view upcoming liquidations, notify, and purchase them
+- request random beacon entries and view previous entries
+<p align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/68087535/94608720-2c710b80-0274-11eb-8710-38b4ba486af6.png">
 </p>
