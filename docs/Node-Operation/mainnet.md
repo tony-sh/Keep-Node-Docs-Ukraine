@@ -43,8 +43,7 @@ Node Backups Guide
 - Prometheus + Loki configurations on [Github](https://github.com/mutedtommy/prom-loki-configs)
 - Keep ECDSA Metrics for Prometheus on [Github](https://github.com/mutedtommy/keep-metrics)
 
-- [Automated Script on Github](https://github.com/mutedtommy/monitoring-setup-script)
-- This is a shell script which automates the installation and configuration for the above guides (with cAdvisor and NodeExporter) and Loki.
+- [Automated Script on Github](https://github.com/mutedtommy/monitoring-setup-script), a shell script which automates the installation and configuration for the above guides (with cAdvisor and NodeExporter) and Loki.
 
 **Pantsme´s Guide :**
 - Monitoring & Backup for AWS on [Github](https://gist.github.com/afmsavage/7c8a9ccf085bedbc0a2880472a9ef984)
