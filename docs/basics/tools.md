@@ -1,6 +1,6 @@
 # Useful Keep Community Doc & Tools 
-There are a lot of very useful tools and docs has been developed by prominent Keep community members.
-Here is a curated list :
+There are a lot of very useful tools and docs has been developed by prominent Keep community members in the last month of September 2020.
+Don't forget to checkout Node Operation Section as well, where you can find lot of docs, guides and how-to's.
 
 ## Keepnode.app
 Node Operation Assistance Tool
@@ -68,6 +68,13 @@ Node Monitoring guide
 - for all operators
 <p align="center">
   <img width="450" src="https://user-images.githubusercontent.com/68087535/94491286-536d0600-01be-11eb-8ce6-287b5fbf6ea1.png">
+</p>
+
+**Grebykirr's :** [Monitoring Guide](https://medium.com/@grebenkin.kirill5/how-to-install-and-configure-elasticsearch-logstash-beats-and-kibana-for-monitoring-keep-docker-f84efd58b48f)
+- Monitoring in another interesting way, using Elasticsearch, Logstash, Beats and Kibana.  
+- for all operators
+<p align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/68087535/94716658-8ed61480-0325-11eb-8ea9-10f73dfa8cce.png">
 </p>
 
 ## Keep Backups !
