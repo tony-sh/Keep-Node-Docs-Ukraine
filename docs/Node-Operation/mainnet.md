@@ -36,7 +36,7 @@ Node Backups Guide
 
 
 ## Monitoring
-*** Mutedtommy's Guide has 3 parts:** 
+**Mutedtommy's Guide has 3 parts:** 
 - Original Monitoring Guide on [Medium](https://medium.com/@hr12rtk/keep-random-beacon-node-monitoring-grafana-prometheus-and-loki-4a4b669b31ea)
 - Prometheus + Loki configurations on [Github](https://github.com/mutedtommy/prom-loki-configs)
 - Keep ECDSA Metrics for Prometheus on [Github](https://github.com/mutedtommy/keep-metrics)
@@ -44,11 +44,11 @@ Node Backups Guide
 - [Automated Script on Github](https://github.com/mutedtommy/monitoring-setup-script)
 - This is a shell script which automates the installation and configuration for the above guides (with cAdvisor and NodeExporter) and Loki.
 
-** Pantsme´s Guide :**
+**Pantsme´s Guide :**
 - Monitoring & Backup for AWS on [Github](https://gist.github.com/afmsavage/7c8a9ccf085bedbc0a2880472a9ef984)
 
 ## Community Tools
 - All tools mentioned in [Tools Section](https://raw.githubusercontent.com/Estebank97/Keep-Node-Docs/master/docs/basics/tools.md) are awesame.
-- They provide help with smooth operation
+- They provide invaluable assistance with smooth mainnet nodes operation !
 
 
