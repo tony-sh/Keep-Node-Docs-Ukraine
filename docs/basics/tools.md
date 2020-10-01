@@ -105,7 +105,7 @@ Node Monitoring guide
   <img width="450" src="https://user-images.githubusercontent.com/68087535/94716658-8ed61480-0325-11eb-8ea9-10f73dfa8cce.png">
 </p>
 
-## Keep Backups !
+## Keep Backups
 Node Backups Guide
 
 **Suprnrdy's :** [Keep Backups](https://www.notion.so/parleylabs/KEEP-BACKUPS-42a73ee62fb74c8193669c00b739265f)
@@ -210,6 +210,27 @@ Minted TBTC Watching Tool
   <img width="450" src="https://user-images.githubusercontent.com/68087535/94608720-2c710b80-0274-11eb-8710-38b4ba486af6.png">
 </p>
 
+## TBTC Explorer
+TBTC deposits/redeems Explorer Tool
+
+**Mexplo's :** [TBTC Explorer](http://tbtcexplorer.com/)
+- lists of deposits and the list of redeem across the Keep network
+- view details of your address, including all deposits and redeem records of your address, the TBTC balance, and the TDT and FRT.
+- visualize the TBTC lifecycle, complete flow of transactions
+- lists of all available TDTs in the Keep network.
+
+<p align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/68087535/94812402-0f038500-03cd-11eb-8ed4-b0e5d7c91e35.png">
+</p>
+
+## Keep Stats
+tBTC System and Keep Network statistics
+
+**Kferret's :** [Keep Stats](https://keepstats.org/)
+- dashboard for KEEP, staking, and tBTC system usage
+<p align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/68087535/94813109-f9428f80-03cd-11eb-8020-8376be57cc9a.png">
+</p>
 
 ## Keep Token explorer
 Keep Token Exploration tool
