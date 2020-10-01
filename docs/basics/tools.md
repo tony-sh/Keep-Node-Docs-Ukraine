@@ -265,6 +265,17 @@ KEEP tokens swapping tool
   <img width="450" src="https://user-images.githubusercontent.com/68087535/94694871-abfde980-030b-11eb-8bc1-dcb0f06184dc.png">
 </p>
 
+## TBTC Swaps with Lightning Network
+TBTC token swap with LN
+
+**Corollari's :** [tbtcswaps](https://tbtcswaps.com/)
+- works with all lightning and web3-enabled wallets
+- Trustless: Based on submarine swaps, all transactions are atomic 
+- Decentralized: Anyone can provide liquidity and the client will automatically pick the cheapest provider
+
+<p align="center">
+  <img width="450" src="https://github.com/corollari/tbtcswaps/blob/master/images/screenshot.png">
+</p>
 
 
 
