@@ -156,6 +156,20 @@ Node Creation Tool
   <img width="450" src="https://steemitimages.com/1280x0/https://cdn.steemitimages.com/DQmTWqZawot34WSqesHKhUJgrrr55tXUr9YDCtd7sND7i2U/nodes%20guide.png">
 </p>
 
+## Keep_Nodes -  Windows 10 Node creation app
+Node Creation Tool
+
+
+**SK's :** [Keep_Node app on Github](https://github.com/sk123sk/Keep_nodes)
+- creation of new BEACON and ECDSA nodes in semi-automated way
+- managing nodes: checking status, connected peers, destroy node, keep every node credentials in one place
+- This is alpha version of the program, testnet oriented
+- download from github win10_ready_build.rar, unpack it and run keep_nodes.exe
+ 
+<p align="center">
+  <img width="450" src="https://user-images.githubusercontent.com/68087535/95020363-159a3280-0641-11eb-99b9-7bb0c0c114b9.png">
+</p>
+
 ## Allthekeeps.com
 Minted TBTC & TDT analysis Tool
 
