@@ -14,5 +14,5 @@
 
 [GitHub](https://github.com/Estebank97/Keep-Node-Docs/)
 [Get Started](basics/start.md)  
-<br />
+
 [:ru:](https://tony-sh.github.io/Keep-Node-Docs-Russia/#/)
