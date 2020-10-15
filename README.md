@@ -1,10 +1,9 @@
 # Keep-Node-Docs
 
-Hi, welcome to the documentation repo.
+Hello! This repository was created to add multilingualism to the main resource.
 
-If you want to see the finished site: 
 It is published at [https://estebank97.github.io/Keep-Node-Docs/](https://estebank97.github.io/Keep-Node-Docs/).
+If you would like to help with your translations please follow the link:
+[https://docs.google.com/spreadsheets/d/1uoaCepd-m1zMMrSlZYeG3akCeT2PS5Ue3nM0XZ6iNwM/edit?usp=sharing](link)
 
-Please review it, and to make changes :branch it, change the md files, PR.
-
-Tks !
+Thank you!
