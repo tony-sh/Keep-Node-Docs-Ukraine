@@ -1,40 +1,44 @@
-# Staking 101
-The Keep Network is a proof of stake system. In order to earn rewards, you must participate in the network by staking KEEP tokens and validating the network.
-## Overview
-There are two ways to participate as a staker: you can stake KEEP tokens and run the Random Beacon client, or stake KEEP and bond ETH running the t-ECDSA client (the tBTC system). You can also elect to do both.
+# Стейкінг 101
+Keep Network це корисний стейкінг. Щоб отримувати винагороди, ви повинні брати участь в Keep Network, розміщуючи токени KEEP.
+## Огляд
+Є два способи брати участь в якості Стейкер: ви можете Стейкал токени KEEP і запустити клієнт Random Beacon або Стейкал KEEP і ETH, використовуючи клієнт t-ECDSA (система tBTC). Ви також можете вибрати обидва варіанти.
 
-Firstly, you'll need to delegate KEEP tokens. You’ll be able to delegate both locked and unlocked KEEP to a staking address or a staking provider immediately after receiving your token grant. A token grant contains KEEP tokens that unlock at a set schedule over a period of time.
-## Ways to Stake
-### Staking with a Provider
-Many of you are already set up with a staking provider through other networks you stake for. We’re happy to work with your preferred providers, but we have Figment, Staked, Bison Trails, and Blockdaemon already set up on testnet and prepared to work with clients. 
-- Figment Networks, Yannik Folla (yannick@figment.network) 
+По-перше, вам потрібно делегувати токени KEEP. Ви зможете делегувати як заблокований, так і розблокований токен KEEP на адресу стейкінга або провайдеру стейкінга відразу після отримання вашого токена. Заблоковані токени KEEP розблокуються за встановленим розкладом.
+## Способи стейкінга
+### Стейкінг за допомогою провайдера
+Уже налаштовані в тестовій мережі і готові працювати:
+- Figment Networks, Yannik Folla (yannick@figment.network)
 - Staked, Tim Ogilvie (togilvie@staked.us)
 - Bison Trails, Viktor Bunin (viktor@bisontrails.co)
-- Blockdaemon, Konstantin Richter (konstantin@blockdaemon.com) 
+- Blockdaemon, Konstantin Richter (konstantin@blockdaemon.com)
 
 
-Please reach out to your staking provider rep and they’ll start to get you onboarded, and let us know if you need recommendations or introductions.
+Зв'яжіться з провайдерами та вони почнуть допомагати вам взяти участь, і повідомлять нам, якщо вам знадобляться рекомендації або допомогу.
 
 
-### Staking In-House
-If you’re staking in-house, you should running one or both nodes.
+### Стейкінг будинку
+Якщо ви Стейкал будинку - вам потрібно запустити одну або кілька нод.
 
-The **Node Operation Section** includes all support documentation in order to :
+** Експлуатація нод **, включаючи всю допоміжну документацію:
 
-- [Deploy your Nodes](Node-Operation/deploy.md)
-- [Manage your Nodes](Node-Operation/manage.md)
-- [Troubleshooting](Node-Operation/troubleshooting.md)
-- [Monitoring and Remote Alerting](Node-Operation/monitoring.md)
-- [Risk Mitigation](Node-Operation/risks.md)
+- [Запуск Ноди] (Node-Operation / deploy.md)
+- [Управління нодою] (Node-Operation / manage.md)
+- [Виправлення проблем] (Node-Operation / troubleshooting.md)
+- [Моніторинг та оповіщення] (Node-Operation / monitoring.md)
+- [Зниження ризиків] (Node-Operation / risks.md)
 
-For further support, use Discord and see Keep Network's GitHub documentation.
+Для більшої підтримки ісполізуйте Discord і дивіться Keep Network's GitHub документацію.
 
-### Using Keep Token dApp
-The Keep Token Dashboard handles everything you’ll need to manage your token grants, staking delegation, and rewards. 
-It let’s you: 
-- Claim your token grants (in Testnet)
-- Set up the different roles (authorizer, operator, beneficiary) for staking
-- Delegate stake to an operator (staking provider) 
-- Track and accept rewards 
+### Використання Keep Token dApp
+Keep Token Dashboard обробляє всі, що вам потрібно для управління грантами токенов, делегуванням стейкінга і винагородою.
+Це дозволить вам:
+- Отримайте свої токен-гранти (в тестовій мережі)
+- Налаштуйте різні ролі (авторизатор, оператор, одержувач) для стейкінга
+- Делегувати стейк оператору (провайдеру)
+- Відстежувати і приймати нагороди
 
-`Sourced from Keep Team's official documentation and edited by community.`[Source](https://keep-network.gitbook.io/staking-documentation/)
+[Джерело (англ.)] (Https://keep-network.gitbook.io/staking-documentation/)
+`Джерело з офіційної документації Keep Team, відредагований і доповнений спільнотою. '[Джерело] (https://keep-network.gitbook.io/staking-documentation/) `
+
+`Автори: Ramaruro, EstebanK`
+`Переклад: ingag`
