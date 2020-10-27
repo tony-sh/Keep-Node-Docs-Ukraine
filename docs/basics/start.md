@@ -1,27 +1,27 @@
-
-![Intro](/assets/images/keepdocgraf.jpg)
-
-
-# Getting Started
-In this guide, you'll find all the information you need to stake on the Keep Network and start earning rewards.
-
-## Basic Description - tl;dr
-The Keep Network's native token, a KEEP, powers the network and undergirds all the apps that are and will be built on it. Anyone with KEEP tokens can stake them, setting them aside as collateral for Keep Network operations.
-
-Staked tokens are delegated by a KEEP token holder to an operator address, who performs work on the network. This work contribution is rewarded, but if an operator misbehaves and doesn't follow their operator contract, their collateral can be taken away (stake slashing) as punishment.
+! [Вступ] (/ assets / images / keepdocgraf.jpg)
 
 
-## Contents
+# На початку
+У цьому керівництві Ви знайдете всю інформацію, необхідну для того, щоб стати Стейкер в мережі Keep Network і почати заробляти винагороди.
 
-- [Introduction](basics/intro.md) : Intro and context to Keep and tBTC.
-- [Key Reasons for Staking in Keep Network:](Reasons/reasons.md) Understand why it is meaningful to stake in Keep Network.
-- [Comparison with Other Alternatives:](comparison/comparesimilar.md) Compare Keep Staking with other staking alternatives currently available in crypto.
-- [Staking Documentation:](stakingdoc/keep101.md) Official Keep Team's documentation about staking. 
-- [Staking Options:](stakingdoc/stakingoptions.md) With staking partners or on your own node running on a server.
-- [Node Operation:](Node-Operation/intro-operation.md) Deploy, Manage, Troubleshoot your own node.
-- Keep Token Dashboard: Token Dashboard official user guide.
+## Загальний опис - tl; dr
+KEEP - основний токен мережі Keep Network. Всі додатки в мережі побудовані або будуть побудовані на ньому. Будь-який власник токенов KEEP може застейкать їх в якості застави для забезпечення функціонування мережі Keep Network.
+
+Застейканние токени делегуються власником KEEP на адресу оператора, який в свою чергу виконує роботу в мережі. Ця робота винагороджується, але якщо оператор поводиться нечесно і не виконує своїх зобов'язань, то все делеговані токени можуть бути відібрані в якості штрафу (слешінг).
+
+
+## Зміст
+
+- [Введення:] (basics / intro.md): Введення в Keep Network і tBTC.
+- [Основні причини для стекінг в Keep Network:] (Reasons / reasons.md) Зрозумійте, чому має сенс робити ставки в Keep Network.
+- [Порівняння з альтернативами:] (comparison / comparesimilar.md) Порівняйте Keep Staking з альтернативами, доступними в даний час в криптовалюта.
+- [Документація по стекінг:] (stakingdoc / keep101.md) Офіційна документація Keep Team про стекінг.
+- [Варіанти стекінг:] (stakingdoc / stakingoptions.md) З партнерами або на вашому власному сервері (ноді).
+- [Варіанти нод:] (Node-Operation / intro-operation.md) Запуск, управління, усунення неполадок на власній ноді.
+- https://dashboard.keep.network/ Офіційний дашборда Keep Network.
 
 ---
-`Sourced from Keep Team's official documentation and edited & completed by community.`[Source](https://keep-network.gitbook.io/staking-documentation/)
+`Джерело з офіційної документації Keep Team, відредагований і доповнений спільнотою. '[Джерело] (https://keep-network.gitbook.io/staking-documentation/) `
 
-`Contributors: Ramaruro, EstebanK`
+`Автори: Ramaruro, EstebanK`
+`Переклад: ingag`
