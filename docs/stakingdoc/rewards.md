@@ -1,18 +1,19 @@
-# Staking Rewards
-There are two kinds of staking rewards earned from either client (random beacon and t-ECDSA). The Keep Network has a non-inflationary rewards model, and all rewards are in KEEP, ETH and/or tBTC.
-## Random Beacon Rewards
-If you’re running the random beacon client and staking KEEP, you’ll earn a fee in ETH per each completed transaction. The fee is based on the gas cost to run the relay plus an additional fee (exact amount per relay still under consideration, it will be in the $10-50 USD range). 
+# Стейкінг винагороди
+Є два види винагород за стейкінг, одержуваних від будь-якого клієнта (Random Beacon і t-ECDSA). Keep Network має модель неінфляційних винагород, і все винагороди видаються в KEEP, ETH і / або tBTC.
+## Random Beacon винагороди
+Якщо ви використовуєте random beacon клієнт і Стейкал KEEP, ви будете отримувати комісію в ETH за кожну завершену транзакцію. Плата заснована на вартості газу.
 
-In addition to the transaction fee, you’ll be earning a portion of the KEEP staking subsidy (2% of total KEEP over the course of the distribution period) for running the beacon.
+Крім комісії за транзакцію, ви будете отримувати частину субсидії на стейкінг KEEP (2% від загальної суми KEEP протягом періоду розподілу) за запуск Random Beacon.
 
-## t-ECDSA/tBTC Rewards
-If you’re running the t-ECDSA client and staking ETH, every completed transaction is a 6 month term (unless called to redeem earlier). The fees in the tBTC system start at 5 bps per Bitcoin deposit. 
+## t-ECDSA / tBTC винагороди
+Якщо ви використовуєте клієнт t-ECDSA і Стейкал ETH, кожна завершена транзакція "живе" 6 місяців (а то й потрібно погасити раніше). Комісія в системі tBTC становить 5 bps за депозит в біткойнов.
 
-tBTC stakers with ETH bonded will also earn a portion of the KEEP staking subsidy (18% of total KEEP over the course of the distribution period) for successfully participating in the network while staking ETH. 
+Учасники tBTC з прив'язаними ETH також отримають частину субсидії для стейкінга KEEP (18% від загальної суми KEEP протягом періоду розподілу).
 
-![rewards](https://gblobscdn.gitbook.com/assets%2F-M4t9U27MS9PgmE2rbqs%2F-MA3QJJ3mu0M-ymV2hzF%2F-MA3QiC44-zkIrRpZHkY%2Fupdated-version.png?alt=media&token=adfea4a9-73ed-4c0c-88c5-c9e33d7659d0)
-
-
-`Sourced from Keep Team's official documentation.`[Source](https://keep-network.gitbook.io/staking-documentation/)
+! [Винагороди (англ.)] (Https://gblobscdn.gitbook.com/assets%2F-M4t9U27MS9PgmE2rbqs%2F-MA3QJJ3mu0M-ymV2hzF%2F-MA3QiC44-zkIrRpZHkY%2Fupdated-version.png?alt=media&token=adfea4a9-73ed -4c0c-88c5-c9e33d7659d0)
 
 
+`Джерело з офіційної документації Keep Team, відредагований і доповнений спільнотою. '[Джерело] (https://keep-network.gitbook.io/staking-documentation/) `
+
+`Автори: Ramaruro, EstebanK`
+`Переклад: ingag`
