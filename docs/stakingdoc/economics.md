@@ -1,55 +1,50 @@
-# Staking Economics
-In the beginning, tBTC is a two sided network with BTC and ETH stakers.
-## Incentive Model
-In the beginning, tBTC is a two sided network with BTC and ETH stakers. In order to incentivize ETH and good stakers, we put in place the following staking incentive model. tBTC signers who stake ETH will earn KEEP over 12-18 months, and initial Keep holders can stake for a pro-rata on the subsidy distribution.
+# Економіка стейкінга
+Спочатку tBTC була двосторонньої мережею зі Стейкер BTC і ETH.
+## Модель стимулювання
+Спочатку tBTC була двосторонньої мережею зі Стейкер BTC і ETH. Щоб стимулювати ETH і учасників, ми впровадили таку модель стимулювання стейкінга. Передплатники tBTC, які Стейкал на ETH, будуть заробляти KEEP протягом 12-18 місяців, а початкові власники Keep можуть Стейкал пропорційно розподілу субсидій.
 
-## Public Stakedrop
-The Keep stakedrop is a way for ether (ETH) holders to get involved as tBTC signers, helping bring Bitcoin to Ethereum. 
+## Публічний стейкдроп
+Keep стейк-дроп - це спосіб для власників ефіру (ETH) брати участь в якості підписантів tBTC, допомагаючи перенести біткойнов в Ethereum.
 
-Any ETH holder can run a Keep node, and collect fees on their ETH while supporting Bitcoin on Ethereum.   
+Будь-який власник ETH може запустити ноду Keep і збирати комісію зі свого ETH, підтримуючи біткойнов на Ethereum.
 
-As the stakedrop progresses, ETH stakers will be granted KEEP based on their staking performance. 
+У міру просування стейкдропа, Стейкер ETH буде надано KEEP в залежності від ефективності їх стейкінга.
 
-As much as 18% of the total KEEP supply will be distributed during the drop.  The stakedrop will go on for ~6 months, until the total KEEP allocated to the drop is exhausted (estimated 12–18 months). After that point, all stakers will need to put down KEEP to participate.  
+Під час дропа буде розподілено до 18% від загального обсягу стейкінга KEEP. Стейкдроп триватиме ~ 6 місяців, поки не буде вичерпана загальна сума KEEP, виділена на дроп (приблизно, 12-18 місяців). Після цього всі учасники повинні будуть відкласти KEEP для участі.
 
-## KEEP Holders Stakedrop Subsidy
-tBTC signers who stake KEEP and ETH early will earn ETH and tBTC rewards. Starting June 8th these stakers will immediately start earning KEEP as well, so these initial KEEP purchasers essentially earn a pro-rata on the subsidy distribution. 
-
-
-
-Distribution graph for Keep and tBTC Signers during the "stakedrop"
-This is the staking incentive distribution curve: 
-
-For 12-18 months anyone backing a tBTC deposit with ETH will get KEEP on a distribution curve.
-
-18% of the supply goes to tBTC backers. The other 2% goes to subsidize the random beacon.
-
-Stakers who are prepared to bond ETH as tBTC launches will continue to capture more of the subsidy as tBTC signing opens up. The longer a staker is successful on the network, the more deposits they are able to handle in parallel. Additionally the likelihood of being chosen for a signer set depends on how much ETH is staked. 
-
-## What does this look like? 
-
-Assume 1% ownership of the Keep network & ETH staking immediately at launch.
-
-The pro-rata allows the staker to take ~10% of the total KEEP subsidy (also tBTC fees).
-
-Over the course of 12-18 months, 1% turns into 2.3% of the total network.
-
-## Staking economics  - parameters to consider  
-
-Before June 8th: 10% of KEEP staked means 10% of the chance for rewards. If you don't mess up, and you do the work, you get 10% of the rewards
-
-After June 8th, until the stakedrop reward pool is emptied (roughly 12-18 months) there's a function that: 
-
- First makes sure tBTC has enough ETH 
-
-Then chooses based first on KEEP holdings, all else being equal, 
-
- then based on ETH
-
-So it's not quite "10% of ETH gets 10% of rewards", but I expect ETH-only will be much greater than "ETH bonded by KEEP stakers", so that could be approximately correct. 
+## Субсидії зберігачам KEEP стейкдроп
+Підписанти tBTC, які Стейкал KEEP і ETH раніше, отримають винагороди ETH і tBTC. Починаючи з 8 червня ці учасники відразу ж почнуть заробляти KEEP, так що ці перші покупці KEEP, по суті, заробляють пропорційно розподілу субсидій.
 
 
-`Sourced from Keep Team's official documentation.`[Source](https://keep-network.gitbook.io/staking-documentation/)
 
-## More on this :
-- Strong ROI on this site [here](Reasons/roi.md)
+Графік розподілу підписантів Keep і tBTC під час "стейдропа"
+Це крива розподілу стимулів для стейкінга:
+
+Протягом 12-18 місяців будь-який, хто підтримує депозит tBTC за допомогою ETH, отримає KEEP по кривій розподілу.
+
+18% йде прихильникам tBTC. Решта 2% йдуть на субсидування random beacon.
+
+Учасники будуть продовжувати отримувати більше субсидій у міру відкриття реєстрації tBTC. Чим довше Стейкер успішний в мережі, тим більше депозитів він може обробляти паралельно. Крім того, ймовірність того, що вас виберуть для підписання, залежить від того, скільки ETH поставлено.
+
+## Як це працює?
+
+Припустимо, що 1% володіє Keep і Стейкал ETH відразу при запуску.
+
+Пропорційна ставка дозволяє Стейкер отримувати ~ 10% від загальної субсидії KEEP (також tBTC).
+
+За 12-18 місяців 1% перетворюється в 2,3%.
+
+## Економіка стейкінга - параметри
+
+10% від стейкінга KEEP означає 10% шансів на отримання нагороди. Якщо ви не напартачив і виконайте роботу, ви отримаєте 10% винагороди.
+
+
+
+
+## Більше інформації :
+- Strong ROI on this site [here (англ.)] (Reasons / roi.md)
+
+`Джерело з офіційної документації Keep Team, відредагований і доповнений спільнотою. '[Джерело] (https://keep-network.gitbook.io/staking-documentation/) `
+
+`Автори: Ramaruro, EstebanK`
+`Переклад: ingag`
